@@ -1,0 +1,5 @@
+1. [[On Demand Instance]]
+2. [[Reserved Instances]]
+3. [[Spot Instances]] 
+4. [[Dedicated hosts]] 
+5. [[Dedicated Instances]] 

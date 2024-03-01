@@ -1,0 +1,1 @@
+- entire physical server, more control over hardware, used for server bound licenses, 3 year period reservation, most expensive

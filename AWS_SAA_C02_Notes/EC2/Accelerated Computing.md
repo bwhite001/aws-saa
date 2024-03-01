@@ -1,0 +1,1 @@
+Uses hardware accelerators for computing jobs such as floating point calculations, graphic processing etc.

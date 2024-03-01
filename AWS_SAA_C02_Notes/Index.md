@@ -1,0 +1,22 @@
+Stephane Mareek's course on AWS Certified Solutions Architect Associate Certification 
+test
+SAA-C02.
+1.  [[Overview]]
+2.  [[IAM]]
+3.  [[EC2]]
+4.  [[ELB]]
+5.  [[RDS]]
+6.  [[Route 53]]
+7.  [[Solution Architecture]]
+8.  [[S3]]
+9.  [[CloudFront]]
+10.  [[Storage Extras]]
+11.  [[Messaging]]
+12.  [[Database]]
+13.  [[Metrics]]
+14.  [[STS]]
+15.  [[AWS Security]]
+16.  [[VPC]]
+17.  [[DIsaster Recovery]]
+18.  [[Other Services]]
+19.  [[Well Architected Framework]]

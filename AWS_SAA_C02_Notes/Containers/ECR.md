@@ -1,0 +1,2 @@
+Elastic container registry
+supports image vulnerability scanning

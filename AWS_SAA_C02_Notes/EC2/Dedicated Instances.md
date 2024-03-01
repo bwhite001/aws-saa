@@ -1,0 +1,1 @@
+Soft version of [[Dedicated hosts]]. No control over hardware.
